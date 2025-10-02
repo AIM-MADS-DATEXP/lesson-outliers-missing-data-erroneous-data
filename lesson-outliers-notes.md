@@ -129,4 +129,5 @@
    
 ## Block 3: 
 
+- Use AB testing data . Contains outliers
 - TODO
