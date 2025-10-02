@@ -19,7 +19,7 @@
 
 - 2:30 including two 10 min breaks
 
-## Block 1: Outliers
+## Block 1: Outliers (50 min)
 
 - What is an outlier anyway?
 - Example 1: what is an outlier anyway?
@@ -73,8 +73,12 @@
   - Sensitivity analysis:
     - Run analyses with and without outliers.
     - Report differences in results.
-   
-## Block 2: Missing data
+
+## Block 2: Workshop (50 min)
+
+- Open the notebook "workshop-outliers.ipynb", read in the data and check it for outliers. Then look at what happens when you apply a log function to your data. Does this reduce the number of outliers?
+- 
+## Block 3: Missing data (50 min)
 
 - MCAR, MAR and MNAR:
   - MCAR: Missing Completely At Random
@@ -109,7 +113,7 @@
   - Not so simple:
     - Simple prediction (regression)
     - k-Nearest Neighbors
-    - Maximum Likelihood Esimation
+    - Maximum Likelihood Estimation
     - Random Forest Imputation
     - Etc.
     - See https://scikit-learn.org/stable/modules/impute.html
