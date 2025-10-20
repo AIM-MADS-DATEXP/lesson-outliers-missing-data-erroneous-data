@@ -93,6 +93,7 @@
   - Missingness depends on some variable that is observed.
   - Can be dealt with.
   - Causes: you know them.
+  - **Still random**!
   - Example: patients miss appointments if they are elderly, but you know their age so you can correct for this.
 - MNAR: Missing Not At Random
   - Missingness depends on unobserved variables.
@@ -131,7 +132,3 @@
     - Missing Not At Random: collect additional data or use sensitivity analysis  
   - Compare the effect of different imputation methods
    
-## Block 3: 
-
-- Use AB testing data . Contains outliers
-- TODO
