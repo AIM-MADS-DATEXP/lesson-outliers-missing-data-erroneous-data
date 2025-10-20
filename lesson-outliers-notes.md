@@ -74,6 +74,11 @@
     - Run analyses with and without outliers.
     - Report differences in results.
 
+
+- Time series:
+  - Time series can have outliers, too.
+  - BUT: make sure your time series is stationary before you start investigating them (why?).
+
 ## Block 2: Workshop (50 min)
 
 - Open the notebook "workshop-outliers.ipynb", read in the data and check it for outliers. Then look at what happens when you apply a log function to your data. Does this reduce the number of outliers?
